@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+print("Content-Type: text/html\n")
+print("<!DOCTYPE html>")
+print("<html lang='en'>")
+print("<head>")
+print("    <meta charset='UTF-8'>")
+print("    <title>Hello Page</title>")
+print("</head>")
+print("<body>")
+print("    <h1>Hello from Python!</h1>")
+print("</body>")
+print("</html>")
