@@ -6,9 +6,9 @@ An HTTP server built from scratch in **C++**, inspired by **Nginx**, developed a
 
 ## 👥 Team
 
-- **Assma Sabir**
 - **Yasser Ait Nasser**
 - **Ismail Aderdour**
+- **Assma Sabir**
 
 ---
 
