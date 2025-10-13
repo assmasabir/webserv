@@ -30,7 +30,7 @@ An HTTP server built from scratch in **C++**, inspired by **Nginx**, developed a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/webserv.git
+git clone https://github.com/assmasabir/webserv.git
 cd webserv
 ```
 ### 2. Build the project
