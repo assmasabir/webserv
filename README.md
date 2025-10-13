@@ -15,7 +15,7 @@ An HTTP server built from scratch in **C++**, inspired by **Nginx**, developed a
 ## ⚙️ Features
 
 - **HTTP/1.1** request parsing and response generation
-- - **Supported methods:** `GET`, `POST`, and `DELETE` 
+- **Supported methods:** `GET`, `POST`, and `DELETE` 
 - **Multiple client handling** using non-blocking sockets and `poll()`  
 - **Chunked transfer encoding**  
 - **CGI execution**
