@@ -30,7 +30,7 @@ https://github.com/yasseraitnasser/webserv
 
 ---
 
-## 🏗️ Installation & Usage
+## ⚙️ Installation & Usage
 
 ### 1. Clone the repository
 ```bash
