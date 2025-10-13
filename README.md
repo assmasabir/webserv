@@ -9,7 +9,11 @@ An HTTP server built from scratch in **C++**, inspired by **Nginx**, developed a
 - **Yasser Ait Nasser**
 - **Ismail Aderdour**
 - **Assma Sabir**
-
+- 
+**Work repository:**
+```bash
+https://github.com/yasseraitnasser/webserv
+```
 ---
 
 ## ⚙️ Features
